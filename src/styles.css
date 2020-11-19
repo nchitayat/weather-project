@@ -30,6 +30,11 @@ p {
   margin: 0 auto;
 }
 
+footer {
+  text-align: center;
+  font-size: 10px;
+}
+
 .weather-app {
   border: 1px solid #dadde1;
   padding: 30px;
